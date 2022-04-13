@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = m.laabid09@gmail.com
-	name = Mohammed LAABID
+	email = m.laabid.9@gmail.com
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
